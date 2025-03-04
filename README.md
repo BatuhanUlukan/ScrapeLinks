@@ -1,4 +1,4 @@
-# PCPartPicker CPU Links Scraper 🚀
+# PCPartPicker Links Scraper 🚀
 
 ## 📌 Overview
 This **C# console application** is designed to **scrape product links** from the CPU section of [PCPartPicker](https://pcpartpicker.com/products/cpu/) using Selenium WebDriver with Chrome. The extracted links are saved into a text file (`cpujsonlinks.txt`) for further use.
