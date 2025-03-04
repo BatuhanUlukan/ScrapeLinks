@@ -18,8 +18,8 @@ class Program
         options.AddArgument("--disable-blink-features=AutomationControlled");
         options.AddExcludedArgument("enable-automation");
 
-        // Load VPN extension to bypass potential restrictions
-        options.AddArgument("--load-extension=C:\\Users\\batuhan.ulukan\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\omghfjlpggmjjaagoclmmobgdodcjboh\\3.88.4_0"); // Browsec VPN
+        // Load VPN extension to bypass potential restrictions (THIS VPN BROWSEC.VPN)
+        options.AddArgument("--load-extension=C:\\Users\\YOURUSERNAME\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\omghfjlpggmjjaagoclmmobgdodcjboh\\3.88.4_0"); // Browsec VPN
 
         // Create a temporary Chrome user profile directory to avoid tracking
         var tempProfileDir = Path.Combine(Path.GetTempPath(), "SeleniumChromeProfile_" + Guid.NewGuid());
