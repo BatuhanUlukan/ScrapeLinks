@@ -21,7 +21,7 @@ Before running this script, ensure you have the following installed:
   - `OpenQA.Selenium.Chrome`
 🔹 **Browsec VPN Chrome Extension** installed at:
 ```
-C:\Users\batuhan.ulukan\AppData\Local\Google\Chrome\User Data\Default\Extensions\omghfjlpggmjjaagoclmmobgdodcjboh\3.88.4_0
+C:\Users\YOURUSERNAME\AppData\Local\Google\Chrome\User Data\Default\Extensions\omghfjlpggmjjaagoclmmobgdodcjboh\3.88.4_0
 ```
 *(Ensure the path is correct for your system!)*
 
